@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
-  "bin_url": "https://raw.githubusercontent.com/Dhirk07/proto-dripwater/main/firmware/v2.bin",
+  "version": "1.2",
+  "bin_url": "https://raw.githubusercontent.com/Dhirk07/proto-dripwater/main/firmware/v3.bin",
   "notes": "Update"
 }
